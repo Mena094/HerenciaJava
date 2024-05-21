@@ -8,5 +8,6 @@ public class App {
                 + obj.getAño() + "su marca es: " + obj.getMarca() +
                 " y tiene: " + obj.getNumPuertas() + " puertas");
         obj.arrancar();
+        System.out.printf("Hola");
     }
 }
